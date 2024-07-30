@@ -1,1 +1,1 @@
-web: java -jar target/spring-boot-starter-parent-jar.jar
+"web: java -jar target/spring-boot-starter-parent-jar.jar" 
